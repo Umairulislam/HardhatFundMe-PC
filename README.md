@@ -5,18 +5,18 @@
 This is a smart contract-based fundraising platform built on the Ethereum blockchain. The smart contract is written in Solidity and the project is built using the Hardhat development framework. The platform also uses JavaScript and NodeJS for front-end development.
 ### Built With
 *  [JavaScript](https://www.javascript.com/)
-*  ![Solidity](https://docs.soliditylang.org/en/v0.8.18/)
-*  ![Node.js](https://nodejs.org/en/-Node.js-333333?style=flat&logo=node.js)
-*  ![ReactJs](https://reactjs.org/)
-*  ![Hardhat](https://hardhat.org/)
-*  ![ESLint](https://eslint.org/)
-*  ![Ethereum](https://ethereum.org/en/)
-*  ![Prettier](https://prettier.io/)
-*  ![Alchemy](https://www.alchemy.com/)
-*  ![Etherscan](https://etherscan.io/)
-*  ![git](https://git-scm.com/)
-*  ![MetaMask](https://metamask.io/)
-*  ![GitHub](https://github.com/)
+*  [Solidity](https://docs.soliditylang.org/en/v0.8.18/)
+*  [Node.js](https://nodejs.org/en/)
+*  [ReactJs](https://reactjs.org/)
+*  [Hardhat](https://hardhat.org/)
+*  [ESLint](https://eslint.org/)
+*  [Ethereum](https://ethereum.org/en/)
+*  [Prettier](https://prettier.io/)
+*  [Alchemy](https://www.alchemy.com/)
+*  [Etherscan](https://etherscan.io/)
+*  [git](https://git-scm.com/)
+*  [MetaMask](https://metamask.io/)
+*  [GitHub](https://github.com/)
 
 ## GETTING STARTED
 * Git
@@ -83,16 +83,17 @@ yarn hardhat coverage
 1. Setup environment variables
 * GOERLI_RPC_URL
 * PRIVATE_KEY
+
 You can get GOERLI_RPC_URL from [Alchemy](https://www.alchemy.com/)
-You can get PRIVATE_KEY from you **MetaMask** wallet
+You can get PRIVATE_KEY from your **MetaMask** wallet
 
 **Remember Don't share yout Private key with anyone**
-**Remember ad your *GOERLI_RPC_URL* and *PRIVATE_KEY* in *.env* file**
+**Remember add your *GOERLI_RPC_URL* and *PRIVATE_KEY* in *.env* file**
 
 2. Get test-net Eth from the following website
 [Faucets.chainlink](https://faucets.chain.link/)
 
-3. Deploy using following comand
+3. Deploy using following command
 ```shell
 yarn hardhat deploy
 ```
