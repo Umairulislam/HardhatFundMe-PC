@@ -4,8 +4,7 @@
 ## INTRODUCTION
 This is a smart contract-based fundraising platform built on the Ethereum blockchain. The smart contract is written in Solidity and the project is built using the Hardhat development framework. The platform also uses JavaScript and NodeJS for front-end development.
 ### Built With
-*  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-*  ![JavaScript](https://www.javascript.com/,https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+*  [JavaScript](https://www.javascript.com/)
 *  ![Solidity](https://docs.soliditylang.org/en/v0.8.18/)
 *  ![Node.js](https://nodejs.org/en/-Node.js-333333?style=flat&logo=node.js)
 *  ![ReactJs](https://reactjs.org/)
