@@ -1,4 +1,3 @@
-<img src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Aditya%20Vikram%20Singh%20Banner.png">
 # Hardhat-FUND-ME PROJECT
 
 ## INTRODUCTION
@@ -46,7 +45,6 @@ yarn install
 
 ## USAGE
 Here are some of the basic commands used in this project with Hardhat:
-
 This command starts the Hardhat network and runs the development environment.
 ```shell
 yarn run hardhat
