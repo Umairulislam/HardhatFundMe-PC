@@ -5,7 +5,7 @@ This is a smart contract-based fundraising platform built on the Ethereum blockc
 ### Built With
 *  ![JavaScript](https://www.javascript.com/)
 *  ![Solidity](https://docs.soliditylang.org/en/v0.8.18/)
-*  ![Node.js](https://nodejs.org/en/)
+*  ![Node.js](https://nodejs.org/en/-Node.js-333333?style=flat&logo=node.js)
 *  ![ReactJs](https://reactjs.org/)
 *  ![Hardhat](https://hardhat.org/)
 *  ![ESLint](https://eslint.org/)
