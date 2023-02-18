@@ -36,7 +36,7 @@ yarn --version
 ### Quick Start
 Clone the repository from the GitHub
 ```bash
-git clone https://github.com/Umairulislam/HardhatFundMe-PC
+git clone https://github.com/Umairulislam/HardhatFundMe-PC.git
 ```
 Install the project dependencies using yarn
 ```bash
